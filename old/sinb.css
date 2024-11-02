@@ -1,0 +1,18 @@
+title {
+    display: SINB;
+}
+body {
+     background-image:url("public_html/images/UAE.png");
+	 width:100%
+	 background-repeat: no-repeat;
+	}
+div {
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
